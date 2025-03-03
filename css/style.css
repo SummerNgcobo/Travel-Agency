@@ -6,6 +6,11 @@
     --dark: #14141F;
 }
 
+.bg-navy {
+    background-color: #263153 !important;
+}
+
+
 .fw-medium {
     font-weight: 600 !important;
 }

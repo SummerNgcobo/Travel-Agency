@@ -10,6 +10,15 @@
     background-color: #263153 !important;
 }
 
+.video-container {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* height: 100vh; Full viewport height */
+}
+/* .video-player {
+    max-width: 100%;
+} */
 
 .fw-medium {
     font-weight: 600 !important;
